@@ -7,17 +7,15 @@
 ## What I know :computer:
 - **Competitive Programming**
 	- Python ❤️
-	- C#
 	- Some Java
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap, Materialize, Material UI
-	- Reactjs, Gatbsy, Nodejs, Typescript, Electron, Express-- :electron:
+	- Reactjs, Gatbsy, Nodejs, Typescript, Electron, Express :electron:
 	- Unity
   
 ## What I want to study 🤔
-- Back End Development (to be a Full Stack Developer)
-- research and development of AI and ML.
+- Research and development of AI and ML.
 - much more of the above 🤩
 
 ## Reach me 
