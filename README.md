@@ -15,7 +15,7 @@
 	- Reactjs, Gatbsy, Nodejs, Typescript, Electron, Express-- :electron:
 	- Unity
   
-## What I want to study :think:
+## What I want to study 🤔
 - Back End Development (to be a Full Stack Developer)
 - research and development of AI and ML.
 - much more of the above 🤩
