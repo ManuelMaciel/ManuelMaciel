@@ -12,8 +12,13 @@
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap, Materialize, Material UI
 	- Reactjs, Gatbsy, Nodejs, Typescript, Electron, Express :electron:
-	- Unity
-  
+	
+- **Android/IOS Development**
+ 	-Flutter
+
+- **Game Development**
+ 	-Unity
+	
 ## What I want to study 🤔
 - Research and development of AI and ML.
 - much more of the above 🤩
