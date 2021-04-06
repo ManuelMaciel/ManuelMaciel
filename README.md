@@ -9,18 +9,19 @@
 	- Python ❤️
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap, Materialize, Material UI
-	- Reactjs, Gatbsy, Nodejs, Express, Flask :electron:
+	- Bootstrap, Materialize, Material UI, (although I prefer Bulma)
+	- Reactjs, Nodejs, Express, Flask :electron:
 	
 - **Android/IOS Development**
  	-Flutter
+	-React Native
 
 - **Game Development**
  	-Some Unity
 	-Some Godot
 	
 ## What I want to study 🤔
-- Research and development of AI and ML.
+- Research and development of AI and ML, Cybersecurity.
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/ManuelMaciel?label=Follow&style=social)](https://github.com/ManuelMaciel)
