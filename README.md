@@ -61,9 +61,9 @@
 ### Interesting stats
 
 ![ManuelMaciel's stats](https://github-readme-stats.vercel.app/api?username=ManuelMaciel&title_color=ffffff&text_color=ec008c&bg_color=DEG,61045F,431D72&icon_color=DB1A9E&show_icons=true&hide_border=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelMaciel&layout=compact&bg_color=DEG,61045F,431D72&title_color=ffffff&text_color=ffffff)](https://github.com/ManuelMaciel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelMaciel&layout=compact&bg_color=DEG,61045F,431D72&title_color=ffffff&text_color=ffffff&hide_border=true)](https://github.com/ManuelMaciel)
 
 ### Project I am currently working on :basecamp:
 
-[![adoptapy Card](https://github-readme-stats.vercel.app/api/pin/?username=ManuelMaciel&repo=adoptapy-back&bg_color=DEG,61045F,431D72&title_color=ffffff&text_color=ffffff&icon_color=DB1A9E)](https://github.com/anuraghazra/github-readme-stats)
+[![adoptapy Card](https://github-readme-stats.vercel.app/api/pin/?username=ManuelMaciel&repo=adoptapy-back&bg_color=DEG,61045F,431D72&title_color=ffffff&text_color=ffffff&icon_color=DB1A9E&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
