@@ -64,6 +64,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelMaciel&layout=compact&bg_color=DEG,61045F,431D72&title_color=ffffff&text_color=ffffff)](https://github.com/ManuelMaciel)
 
 ### Project I am currently working on :basecamp:
-[![adoptapy Card](https://github-readme-stats.vercel.app/api/pin/?username=ManuelMaciel&repo=adoptapy-back&bg_color=DEG,61045F,431D72&title_color=ffffff&text_color=ffffff&icon_color=DB1A9E)](https://github.com/anuraghazra/github-readme-stats)
 
+[![adoptapy Card](https://github-readme-stats.vercel.app/api/pin/?username=ManuelMaciel&repo=adoptapy-back&bg_color=DEG,61045F,431D72&title_color=ffffff&text_color=ffffff&icon_color=DB1A9E)](https://github.com/anuraghazra/github-readme-stats)
 
