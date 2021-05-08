@@ -65,5 +65,6 @@
 
 ### Project I am currently working on :basecamp:
 
-[![adoptapy Card](https://github-readme-stats.vercel.app/api/pin/?username=ManuelMaciel&repo=adoptapy-back&bg_color=DEG,61045F,431D72&title_color=ffffff&text_color=ffffff&icon_color=DB1A9E&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![adoptapyB Card](https://github-readme-stats.vercel.app/api/pin/?username=ManuelMaciel&repo=adoptapy-back&bg_color=DEG,61045F,431D72&title_color=ffffff&text_color=ffffff&icon_color=DB1A9E&hide_border=true)](https://github.com/ManuelMaciel/adoptapy-back)
+[![adoptapyM Card](https://github-readme-stats.vercel.app/api/pin/?username=ManuelMaciel&repo=adoptapy-mobile&bg_color=DEG,61045F,431D72&title_color=ffffff&text_color=ffffff&icon_color=DB1A9E&hide_border=true)](https://github.com/ManuelMaciel/adoptapy-mobile)
 
