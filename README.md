@@ -47,7 +47,7 @@
 ](https://github.com/ManuelMaciel)
 	
 ## What I want to study 🤔
-- Research and development of AI and ML, Cybersecurity.
+- Research and development of AI and ML.
 
 ## Reach me 
 [![Github Badge](https://img.shields.io/badge/-Github-4D2182?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ManuelMaciel)](https://github.com/ManuelMaciel)
