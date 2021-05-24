@@ -9,7 +9,6 @@
 ## What I know :computer:
 - **Competitive Programming**
 	<br/> [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/ManuelMaciel)
-[![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ManuelMaciel)
 - **Front End Development**
 	<br/> [![HTML Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ManuelMaciel)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,13 +18,10 @@
 [![Syled Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ](https://github.com/ManuelMaciel)[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ](https://github.com/ManuelMaciel)[![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-](https://github.com/ManuelMaciel)[![Gatsby Badge](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 ](https://github.com/ManuelMaciel)
 - **Back End Development**
 	<br />[![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ](https://github.com/ManuelMaciel)[![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-](https://github.com/ManuelMaciel)[![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-](https://github.com/ManuelMaciel)[![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ](https://github.com/ManuelMaciel)[![Mongo Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ](https://github.com/ManuelMaciel)[![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ](https://github.com/ManuelMaciel)
@@ -33,11 +29,6 @@
 - **Android/IOS Development**
  	<br />[![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ](https://github.com/ManuelMaciel)[![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-](https://github.com/ManuelMaciel)
-
-- **Game Development**
- 	<br />[![Unity Badge](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-](https://github.com/ManuelMaciel)[![Godot Badge](https://img.shields.io/badge/Godot-52528C?style=for-the-badge&logo=godot-engine&logoColor=white)
 ](https://github.com/ManuelMaciel)
 
 - **Cloud**
