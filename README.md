@@ -1,10 +1,10 @@
 
 <p align="center">
- <h1 align="center">Welcome to my github! 👋</h1>
+ <h1 align="center">¡Welcome to my github! 👋</h1>
 </p>
 
 ## About me :man_technologist:
-**My name is [Manuel](https://manuelmaciel.vercel.app), I'm a web developer, and I'm currently in my third year of computer engineering at Uninorte. Since I was 14 years old I started working in technology 🚀. This has helped me to develop a very good technological mindset, and has given me the curiosity to learn more. 🌠**
+**My name is [Manuel](https://manuelmaciel.vercel.app), I'm a web developer, and i'm currently in my third year of computer engineering at Uninorte. Since I was 14 years old I started working in technology 🚀. This has helped me to develop a very good technological mindset, and has given me the curiosity to learn more. 🌠**
 
 ## What I know :computer:
 - **Competitive Programming**
