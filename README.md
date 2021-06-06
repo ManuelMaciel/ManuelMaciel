@@ -23,7 +23,6 @@
 	<br />[![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ](https://github.com/ManuelMaciel)[![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ](https://github.com/ManuelMaciel)[![Mongo Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-](https://github.com/ManuelMaciel)[![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ](https://github.com/ManuelMaciel)
 	
 - **Android/IOS Development**
