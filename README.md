@@ -9,36 +9,50 @@
 ## What I know :computer:
 - **Competitive Programming**
 	<br/> [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/ManuelMaciel)
+	[![Typescript Badge](https://img.shields.io/badge/Typescript-4269f5?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/ManuelMaciel)
 - **Front End Development**
-	<br/> [![HTML Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ManuelMaciel)
-[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/ManuelMaciel)
-[![Bulma Badge](https://img.shields.io/badge/Bulma-48c78e?style=for-the-badge&logo=bulma&logoColor=white)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/ManuelMaciel)
+	<br/> [![Bulma Badge](https://img.shields.io/badge/Bulma-48c78e?style=for-the-badge&logo=bulma&logoColor=white)](https://github.com/ManuelMaciel) [![TailwindCSS Badge](https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/ManuelMaciel) [![ChakraUI Badge](https://img.shields.io/badge/chakra-4ED1C5?style=for-the-badge&logo=chakraui&logoColor=white)](https://github.com/ManuelMaciel) [![MUI Badge](https://img.shields.io/badge/MUI-%230081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/ManuelMaciel)
 [![Syled Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-](https://github.com/ManuelMaciel)[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-](https://github.com/ManuelMaciel)[![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+](https://github.com/ManuelMaciel) [![Vue.js Badge](https://img.shields.io/badge/vuejs-%2335495e?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+](https://github.com/ManuelMaciel) [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+](https://github.com/ManuelMaciel) [![Next JS Badge](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white)
+](https://github.com/ManuelMaciel) [![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ](https://github.com/ManuelMaciel)
 - **Back End Development**
 	<br />[![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ](https://github.com/ManuelMaciel)[![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-](https://github.com/ManuelMaciel)[![Mongo Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+](https://github.com/ManuelMaciel)[![GraphQL Badge](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
+](https://github.com/ManuelMaciel) [![Strapi Badge](https://img.shields.io/badge/-strapi-%232E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+](https://github.com/ManuelMaciel) [![Socket.io Badge](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=#010101)
+](https://github.com/ManuelMaciel) [![Mongo Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+](https://github.com/ManuelMaciel) [![Prisma Badge](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+](https://github.com/ManuelMaciel) [![Sequelize Badge](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ](https://github.com/ManuelMaciel)
-	
+
+
+- **Testing**
+ 	<br />[![Cypress Badge](https://img.shields.io/badge/cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+](https://github.com/ManuelMaciel)
+
+
 - **Android/IOS Development**
  	<br />[![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ](https://github.com/ManuelMaciel)[![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+](https://github.com/ManuelMaciel)[![Expo Badge](https://img.shields.io/badge/expo-20232A?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ](https://github.com/ManuelMaciel)
+
+- **Desktop Development**
+ 	<br />[![Electron Badge](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+](https://github.com/ManuelMaciel)
+
 
 - **Cloud**
- 	<br />[![Ntelify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+ 	<br />[![Netlify Badge](https://img.shields.io/badge/Netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ](https://github.com/ManuelMaciel)[![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-](https://github.com/ManuelMaciel)[![AWS Badge](https://img.shields.io/badge/Amazon_AWS-EADB34?style=for-the-badge&logo=amazon-aws&logoColor=black)
+](https://github.com/ManuelMaciel) [![Vercel Badge](https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
+](https://github.com/ManuelMaciel) [![AWS Badge](https://img.shields.io/badge/Amazon_AWS-EADB34?style=for-the-badge&logo=amazon-aws&logoColor=black)
 ](https://github.com/ManuelMaciel)
 	
-## What I want to study 🤔
-- Research and development of AI and ML.
-
 ## Reach me 
 [![Github Badge](https://img.shields.io/badge/-Github-4D2182?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ManuelMaciel)](https://github.com/ManuelMaciel)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-4D2182?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/m_maciel7/)](https://www.instagram.com/m_maciel7/)
@@ -50,9 +64,13 @@
 
 ### Interesting stats
 
-![ManuelMaciel's stats](https://github-readme-stats.vercel.app/api?username=ManuelMaciel&title_color=ffffff&text_color=ec008c&bg_color=DEG,61045F,431D72&icon_color=DB1A9E&show_icons=true&hide_border=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelMaciel&layout=compact&bg_color=DEG,61045F,431D72&title_color=ffffff&text_color=ffffff&hide_border=true)](https://github.com/ManuelMaciel)
+![ManuelMaciel's stats](https://github-readme-stats.vercel.app/api?username=ManuelMaciel&title_color=7957d5&text_color=ff3860&bg_color=1a1b27&icon_color=DB1A9E&show_icons=true&hide_border=true&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelMaciel&layout=compact&bg_color=1a1b27&title_color=7957d5&text_color=ff3860&hide_border=true)](https://github.com/ManuelMaciel)
+<p align="center">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=manuelmaciel&theme=buefy-dark&hide_border=true&background=1a1b27">
+</p>
 
-### Project I am currently working on :basecamp:
+### I'm currently working on :basecamp:
 
-[![skyDB Card](https://github-readme-stats.vercel.app/api/pin/?username=ManuelMaciel&repo=skyDB&bg_color=DEG,61045F,431D72&title_color=ffffff&text_color=ffffff&icon_color=DB1A9E&hide_border=true)](https://github.com/ManuelMaciel/skyDB)
+[![skyDB Card](https://github-readme-stats.vercel.app/api/pin/?username=ManuelMaciel&repo=skyDB&bg_color=1a1b27&title_color=7957d5&text_color=ff3860&icon_color=DB1A9E&hide_border=true)](https://github.com/ManuelMaciel/skyDB)
+
