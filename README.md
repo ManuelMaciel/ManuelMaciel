@@ -52,6 +52,10 @@
 ](https://github.com/ManuelMaciel) [![Vercel Badge](https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
 ](https://github.com/ManuelMaciel) [![AWS Badge](https://img.shields.io/badge/Amazon_AWS-EADB34?style=for-the-badge&logo=amazon-aws&logoColor=black)
 ](https://github.com/ManuelMaciel)
+
+- **Blockchain**
+ 	<br />[![Solidity Badge](https://img.shields.io/badge/Solidity-%23000000?style=for-the-badge&logo=solidity&logoColor=#00C7B7)
+](https://github.com/ManuelMaciel)
 	
 ## Reach me 
 [![Github Badge](https://img.shields.io/badge/-Github-4D2182?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ManuelMaciel)](https://github.com/ManuelMaciel)
