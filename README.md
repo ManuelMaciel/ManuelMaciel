@@ -2,9 +2,7 @@
 <p align="center">
  <h1 align="center">¡Welcome to my github! 👋</h1>
 </p>
-<div align="center">
-	<a href="https://app.daily.dev/ManuelMaciel"><img src="https://api.daily.dev/devcards/e663dc6901754dba932d7a1b476c1817.png?r=owr" width="400" alt="Manuel Maciel's Dev Card"/></a>
-	</p>
+<a href="https://app.daily.dev/ManuMaciel"><img src="https://api.daily.dev/devcards/32d69767ef444797812d367806748679.png?r=l2k" width="400" alt="Jesús Acuña's Dev Card"/></a>
 
 ## About me :man_technologist:
 **My name is [Manuel](https://manuelmaciel.vercel.app), I'm a web developer, and i'm currently in my third year of computer engineering at Uninorte. Since I was 14 years old I started working in technology 🚀. This has helped me to develop a very good technological mindset, and has given me the curiosity to learn more. 🌠**
