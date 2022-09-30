@@ -81,3 +81,7 @@
 
 [![skyDB Card](https://github-readme-stats.vercel.app/api/pin/?username=ManuelMaciel&repo=skyDB&bg_color=1a1b27&title_color=7957d5&text_color=ff3860&icon_color=DB1A9E&hide_border=true)](https://github.com/ManuelMaciel/skyDB)
 
+<div align="center">
+<a href="https://user-images.githubusercontent.com/34004828/193357798-55ff874d-666b-4674-aef7-f184c20ed137.png" alt="Jesús Acuña's Dev Card"/></a>
+</div>
+
